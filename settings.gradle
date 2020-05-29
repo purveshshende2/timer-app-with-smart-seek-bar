@@ -1,0 +1,2 @@
+rootProject.name='Halloween Timer App'
+include ':app'
